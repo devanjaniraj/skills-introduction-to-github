@@ -9,5 +9,6 @@
     ![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
     ![screenshot showing delete branch button](/images/delete-branch.png)
     Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+    - You made your first contribution! :tada:
     
 
