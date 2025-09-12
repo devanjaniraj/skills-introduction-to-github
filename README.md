@@ -11,6 +11,9 @@
 
 _Get started using GitHub in less than an hour._
 
+> **💡 Wondering if GitHub is good for developing applications and websites?** 
+> Check out our comprehensive guide: [Is GitHub Suitable for Development?](./GITHUB_FOR_DEVELOPMENT.md)
+
 </header>
 
 <!--
